@@ -1,2 +1,1 @@
-# pesseract
-Pesseract software
+# other
